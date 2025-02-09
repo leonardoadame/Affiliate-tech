@@ -1,6 +1,6 @@
 {
 	"devDependencies": {
-		"eslint-config-prettier": "^8.5.0"
+		"eslint-config-prettier": "^10.0.1"
 	},
 	"scripts": {
 		"lint": "prettier --plugin-search-dir . --check . && eslint .",
